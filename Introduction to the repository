@@ -1,0 +1,21 @@
+Budget Buddy
+
+Budget Buddy is a modern C-Sharp Windows Forms expense tracking and financial management desktop application designed for everyday budgeting, bill tracking, and financial oversight.
+
+Key Features
+
+-- Secure Authentication and Account Security: User registration featuring email OTP verification, BCrypt password hashing, and secure session handling.
+-- Interactive Financial Dashboard: Real-time remaining budget summaries, automated bill alert notifications via native Windows system tray integration, and dynamic income and expense breakdown pie charts.
+-- Expense and Income Tracking: Seamlessly add, update, delete, and export transaction records with automatic color-coded formatting.
+-- Custom Category Management: Create, manage, and filter transactions by custom expense and income categories.
+-- Strict 3NF Database Normalization: Built on a robust, normalized relational MySQL database schema ensuring data integrity, historical auditing, and optimal performance.
+
+Tech Stack
+
+-- Language: C#
+-- Framework: .NET, Windows Forms
+-- Database: MySQL
+
+Disclaimer
+
+Please note that this application is not intended for public use, commercial distribution, or deployment in production environments. It is developed strictly for academic testing, evaluation, and checking purposes only.
